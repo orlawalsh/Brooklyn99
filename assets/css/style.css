@@ -19,7 +19,16 @@ body {
     margin-top: 50%;
     font-size: 3rem;
   }
-  
+
+ .gif {
+    text-align: center;
+    padding-bottom: 10%;
+  }
+
+  .container {
+    width: 900px;
+  }
+
 #card-outer {
     height:400px;
     width: 400px;
