@@ -1,3 +1,13 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Anton', sans-serif;
+    box-sizing: border-box;
+    color: yellow;
+    background-color: black;
+    background: url("../images/game.gif");
+  }
+  
 #card-outer {
     height:400px;
     width: 400px;
