@@ -7,6 +7,18 @@ body {
     background-color: black;
     background: url("../images/game.gif");
   }
+
+  h1 {
+    font-size: 5rem;
+    color: yellow;
+    text-align: center;
+    padding-top: 2%;
+  }
+  
+  h2 {
+    margin-top: 50%;
+    font-size: 3rem;
+  }
   
 #card-outer {
     height:400px;
